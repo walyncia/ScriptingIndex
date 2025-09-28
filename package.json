@@ -1,0 +1,29 @@
+{
+  "name": "scriptingindex",
+  "version": "1.0.0",
+  "description": "This repository is an exercise on scripts validating security concerns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walyncia/ScriptingIndex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/walyncia/ScriptingIndex/issues"
+  },
+  "homepage": "https://github.com/walyncia/ScriptingIndex#readme",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typecript": "^0.0.1-security"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3"
+  }
+}
